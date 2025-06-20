@@ -17,3 +17,14 @@ Simular quais os fundos de investimento imobiliario se adequadam ao perfil do in
   Moderado 
   Agressivo
 Para cada perfil atribuir como dividir o aporte 
+
+#Imposto de Renda
+Criar uma planiha para auxiliar no preenchimento do imposto de renda
+A planilha deve conter:
+Informacoes pessoais do titular 
+Informer de Rendimento Bancario
+Notas (informacoes de entradas de valor)
+
+A planilha de ser intuitiva e de facil preenchimento
+Nao ha muita conta a fazer
+Os campos devem ser protegidos para evitar preenchimentos errados
